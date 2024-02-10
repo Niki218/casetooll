@@ -10,10 +10,10 @@ public class caterpillar_218 {
     	this.moves=moves;
     	this.cabbages=cabbages;
     }
-	
-	
-	
-	
+		
+    
+    void display() {
+		System.out.println("sjdhgvus ");
+	}
 }	
-	
 	
